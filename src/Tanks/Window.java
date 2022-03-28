@@ -10,7 +10,6 @@ public class Window {
         JFrame start = new JFrame("Танки начало!");
         start.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         start.setLocation(200,50);
- //       start.setLocation(0,0);
 
         Dimension scrinSise = Toolkit.getDefaultToolkit().getScreenSize();
        // start.setSize(scrinSise);
